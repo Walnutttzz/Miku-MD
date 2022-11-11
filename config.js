@@ -7,7 +7,7 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['917642811486']
+global.Owner = ['917642811485']
 global.OwnerNumber = ['917642811485']
 global.ownertag = ['917642811485']
 global.BotName = "Miku"
@@ -23,7 +23,7 @@ global.sessionName = "session"
 global.prefa = ['-'] // Prefix ---  change it to anythong you want except @//
 
 
-global.location = "Tripura, India"
+global.location = "West Bengal, India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
